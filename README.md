@@ -239,7 +239,7 @@ If Noctis helps you, please consider:
 
 ## 📸 Screenshots
 
-*Coming soon - Add screenshots of your app here*
+
 
 ---
 
